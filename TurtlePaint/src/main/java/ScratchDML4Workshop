@@ -19,10 +19,10 @@ Triangle // Classes
 Circle
 -------------------------------------------------
 + Square ()
-+ paint(): void 
++ paint(): public void
 
 + Triangle()
-+ paint(): void [abstract]
++ paint(): public void
 
 + Circle()
-+ paint(): void
++ paint(): public void
