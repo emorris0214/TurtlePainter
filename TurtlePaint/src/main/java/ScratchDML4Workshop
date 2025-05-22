@@ -1,0 +1,28 @@
+
+
+
+
+                <<abstract>>
+                    Shape
+----------------------------------------------
+- turtle: Turtle
+- location: Point
+- color: Color
+- border: int
+----------------------------------------------
++ Shape(turtle: Turtle, location: Point, coo: Color, border: int)
++ paint(): void [abstract]
+
+
+Square
+Triangle // Classes
+Circle
+-------------------------------------------------
++ Square ()
++ paint(): void 
+
++ Triangle()
++ paint(): void [abstract]
+
++ Circle()
++ paint(): void
